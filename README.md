@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpuntus-css&label=Profile%20views&color=0e75b6&style=flat" alt="mpuntus-css" /> </p>
 
-<-- - 👨‍💻 All of my projects are available at [protfolio link](protfolio link) -->
+<!-- - 👨‍💻 All of my projects are available at [protfolio link](protfolio link) -->
 
 - 📫 How to reach me **mpuntus@css.edu**
 
