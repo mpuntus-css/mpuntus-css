@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Something Bebrou</h1>
-<h3 align="center">Computer Science & Math student at College</h3>
+<h1 align="center">Hi 👋, I'm Mikita Puntus</h1>
+<h3 align="center">Computer Science & Math student at College of St. Scholastica</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mpuntus-css&label=Profile%20views&color=0e75b6&style=flat" alt="mpuntus-css" /> </p>
 
-- 👨‍💻 All of my projects are available at [protfolio link](protfolio link)
+<-- - 👨‍💻 All of my projects are available at [protfolio link](protfolio link) -->
 
 - 📫 How to reach me **mpuntus@css.edu**
 
