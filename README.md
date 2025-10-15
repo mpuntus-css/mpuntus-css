@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mpuntus-css&show_icons=true&locale=en&layout=compact" alt="mpuntus-css" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpuntus-css&show_icons=true&locale=en" alt="mpuntus-css" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mpuntus-css&show_icons=true&locale=en" alt="mpuntus-css" /></p>-->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mpuntus-css&" alt="mpuntus-css" /></p>
